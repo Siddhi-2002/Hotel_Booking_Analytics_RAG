@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+langchain
+faiss-cpu
+sentence-transformers
+llama-cpp-python
